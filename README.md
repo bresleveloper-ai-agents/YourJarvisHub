@@ -48,7 +48,7 @@ Example flow:
 
 Want to understand how the Hub's API path compares to OpenClaw's built-in Heartbeat/Cron path?
 
-👉 **[Open the interactive flow chart](https://htmlpreview.github.io/?https://github.com/JarvisDeLaAri/YourJarvisHub/blob/main/flow-comparison.html)** — side-by-side visual comparison of both paths, same brain, different plumbing.
+👉 **[Open the interactive flow chart](https://htmlpreview.github.io/?https://github.com/bresleveloper-ai-agents/YourJarvisHub/blob/main/flow-comparison.html)** — side-by-side visual comparison of both paths, same brain, different plumbing.
 
 ---
 
